@@ -225,4 +225,8 @@ prev.addEventListener('click',() =>{
 });
 
 
-
+// git init
+// git add . 
+// git commit -m"first"
+// git remote add origin (ссылка)
+// git push origin master 
